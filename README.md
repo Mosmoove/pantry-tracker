@@ -38,6 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 A full-stack modern pantry management application that manages your pantry items
 
-#Tech Stack
+## Tech Stack
 - Frontend: React, Next.js, and Material-UI
 - Backend: Google Firebase
