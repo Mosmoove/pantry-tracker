@@ -95,10 +95,10 @@ export default function Home() {
                   variant="outlined"
                   fullWidth
                   value={itemName}
-                  label="Outlined"
+                  label="Enter Item"
                   onChange={(e)=>{
                     setItemName(e.target.value)
-                  }}/>Item Name
+                  }}/>
                 <Button variant="contained"
                 onClick={()=>{
                   addItem(itemName)
