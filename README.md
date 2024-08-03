@@ -35,3 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # pantry-tracker
+
+A full-stack modern pantry management application that manages your pantry items
+
+#Tech Stack
+- Frontend: React, Next.js, and Material-UI
+- Backend: Google Firebase
